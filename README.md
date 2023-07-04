@@ -1,2 +1,2 @@
-# myGit
-学习使用
+# learngit
+学习git
